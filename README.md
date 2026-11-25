@@ -44,23 +44,8 @@ linux-cloud-project/
 
 ## 📸 Project Screenshots
 
-### 1. Ubuntu EC2 Server
-![Ubuntu EC2 Server](screenshots/01-ubuntu-ec2-server.png)
+<img width="1800" height="1012" alt="linux_aws_linkedin_overview" src="https://github.com/user-attachments/assets/3f6d2183-0539-46f9-84bb-860630da086b" />
 
-### 2. System Monitoring
-![System Monitoring](screenshots/02-system-monitoring.png)
-
-### 3. Automated Backup
-![Automated Backup](screenshots/03-automated-backups.png)
-
-### 4. Cron Scheduling
-![Cron Scheduling](screenshots/04-cron-scheduling.png)
-
-### 5. Project Structure
-![Project Structure](screenshots/05-project-structure.png)
-
-### 6. Resource Inspection
-![Resource Inspection](screenshots/06-resource-inspection.png)
 
 ## Learning Outcomes
 - Linux system administration
