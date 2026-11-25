@@ -42,28 +42,6 @@ linux-cloud-project/
 4. Developed automated backup script.
 5. Scheduled tasks using Cron.
 
----
-
-## 📸 Project Screenshots
-
-### 1. Ubuntu EC2 Server
-![Ubuntu EC2 Server](screenshots/01-ubuntu-ec2-server.png)
-
-### 2. System Monitoring
-![System Monitoring](screenshots/02-system-monitoring.png)
-
-### 3. Automated Backup
-![Automated Backup](screenshots/03-automated-backups.png)
-
-### 4. Cron Scheduling
-![Cron Scheduling](screenshots/04-cron-scheduling.png)
-
-### 5. Project Structure
-![Project Structure](screenshots/05-project-structure.png)
-
-### 6. Resource Inspection
-![Resource Inspection](screenshots/06-resource-inspection.png)
-
 ## Learning Outcomes
 - Linux system administration
 - Bash scripting
