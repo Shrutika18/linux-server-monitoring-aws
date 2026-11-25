@@ -4,7 +4,7 @@
 ## Project Overview
 A beginner-friendly Linux cloud project deployed on AWS EC2 using Ubuntu Linux and Bash scripting.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d1c57ad-e82a-4da0-a275-9436784dbdc1" />
+<img width="1447" height="921" alt="Screenshot 2026-11-25 202132" src="https://github.com/user-attachments/assets/a16e3515-58d3-4c0f-b815-bad1ff2cbdf1" />
 
 
 ## Features
