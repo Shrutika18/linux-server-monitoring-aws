@@ -42,29 +42,27 @@ linux-cloud-project/
 4. Developed automated backup script.
 5. Scheduled tasks using Cron.
 
-## 📸 Project Screenshots
-
 ---
 
 ## 📸 Project Screenshots
 
 ### 1. Ubuntu EC2 Server
-![Ubuntu EC2 Server](<img width="1600" height="900" alt="01_ubuntu_ec2_server" src="https://github.com/user-attachments/assets/87705d89-bcbe-48dc-b5e1-f598a1212795" />)
+![Ubuntu EC2 Server](screenshots/01-ubuntu-ec2-server.png)
 
 ### 2. System Monitoring
-![System Monitoring](<img width="1600" height="900" alt="02_system_monitoring" src="https://github.com/user-attachments/assets/d58af4a4-1cb2-48d1-a8dd-69104e74cfc8" />)
+![System Monitoring](screenshots/02-system-monitoring.png)
 
 ### 3. Automated Backup
-![Automated Backup](<img width="1600" height="900" alt="03_automated_backups" src="https://github.com/user-attachments/assets/815a6c4c-a066-47a4-a26f-dbd4e3389599" />)
+![Automated Backup](screenshots/03-automated-backups.png)
 
 ### 4. Cron Scheduling
-![Cron Scheduling](<img width="1600" height="900" alt="04_cron_scheduling" src="https://github.com/user-attachments/assets/f4a20de6-855a-4560-bbc7-1cbee14dba6c" />)
+![Cron Scheduling](screenshots/04-cron-scheduling.png)
 
 ### 5. Project Structure
-![Project Structure](<img width="1600" height="900" alt="05_project_structure" src="https://github.com/user-attachments/assets/d76ac978-757e-4bf3-8168-ea146b36bb26" />)
+![Project Structure](screenshots/05-project-structure.png)
 
 ### 6. Resource Inspection
-![Resource Inspection](<img width="1600" height="900" alt="06_resource_inspection" src="https://github.com/user-attachments/assets/508c7b44-36f0-4138-a3e4-6ea33d2eedea" />)
+![Resource Inspection](screenshots/06-resource-inspection.png)
 
 ## Learning Outcomes
 - Linux system administration
