@@ -4,6 +4,9 @@
 ## Project Overview
 A beginner-friendly Linux cloud project deployed on AWS EC2 using Ubuntu Linux and Bash scripting.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d1c57ad-e82a-4da0-a275-9436784dbdc1" />
+
+
 ## Features
 - CPU usage monitoring
 - RAM usage monitoring
